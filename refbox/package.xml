@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <name>refbox</name>
+  <version>1.0.0</version>
+  <description>The Referee Box package</description>
+  <maintainer email="expertinos.unifei@gmail.com">Expertinos UNIFEI</maintainer>
+  <author email="adrianohrl@unifei.edu.br">Adriano Henrique Rossette Leite</author>
+  <license>BSD</license>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>refbox_msgs</build_depend>
+  <build_depend>roscpp</build_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>refbox_msgs</run_depend>
+  <run_depend>roscpp</run_depend>
+</package>

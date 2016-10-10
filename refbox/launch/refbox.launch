@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="refbox_node" pkg="refbox" type="refbox_node" output="screen">
+	 </node>
+</launch>
